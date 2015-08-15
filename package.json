@@ -1,0 +1,7 @@
+{
+  "name": "fittext",
+  "version": "1.0.0",
+  "description": "Fits text to its container.",
+  "main": "fittext.js",
+  "homepage": "https://github.com/adactio/FitText.js#readme"
+}
